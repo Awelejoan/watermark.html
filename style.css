@@ -1,0 +1,21 @@
+.container{
+    margin-top: 70px;
+    
+}
+.paragraph{
+    position: relative;
+}
+.eko{
+    font-size: 40px;
+    font-style: italic;
+    color: grey;
+    position: absolute;
+    top: 300px;
+    transform: skew(0deg, -20deg);
+    transform:rotate(-60deg);
+    margin: 200px;
+}
+.eko p{
+    opacity:0.3;
+    word-spacing:5px
+}
